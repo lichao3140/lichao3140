@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Android 开发者，熟悉 OpenGL ES、 FFmpeg、 Camera、 人脸识别。
+Android 开发者，丰富BLE、人脸识别、新能源充电桩、换电、储能相关项目经验。
 
 <!--  | CSDN |简书|掘金|知乎|
  | ----  |----|----|----|
